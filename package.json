@@ -1,0 +1,19 @@
+{
+  "name": "perfect-scrollbar-bower",
+  "version": "1.0.0",
+  "description": "## Deprecated",
+  "main": "js/perfect-scrollbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedrum-developers/perfect-scrollbar-bower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thedrum-developers/perfect-scrollbar-bower/issues"
+  },
+  "homepage": "https://github.com/thedrum-developers/perfect-scrollbar-bower#readme"
+}
